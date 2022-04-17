@@ -12,5 +12,5 @@ I hope you find my work useful, feel free to take a look and if you want to cont
 ### :fire: My Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=agusfl&theme=slateorange&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusfl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
