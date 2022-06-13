@@ -3,6 +3,8 @@
 Hey there, my name is Agustin Flom and I am currently finishing my studies as a software engineering student at Holberton Uruguay. My first career is as an accountant and my goal is to enhance both knowledge with each other.
 I hope you find my work useful, feel free to take a look and if you want to contact me you can do it through my [LinkedIn](https://www.linkedin.com/in/agustin-f/).
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fagusfl%2F&label=Profile%20views&labelColor=%23d9e3f0&countColor=%23f47373)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fagusfl%2F)
+
 ### Technologies and Tools 💻
 
 <a href="https://www.cprogramming.com/">
