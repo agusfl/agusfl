@@ -15,8 +15,8 @@ I hope you find my work useful, feel free to take a look and if you want to cont
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <a href="https://git-scm.com/">
 <img alt="GitWebPage" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<a href="https://code.visualstudio.com/">
+<img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 
 ### :fire: My Stats on Github:
 
