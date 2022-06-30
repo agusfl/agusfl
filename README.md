@@ -23,6 +23,10 @@ I hope you find my work useful, feel free to take a look and if you want to cont
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <a href="https://www.w3.org/Style/CSS/Overview.en.html">
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<a href="https://www.javascript.com/">
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<a href="https://www.mysql.com/">
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 
 ### :fire: My Stats on Github:
 
