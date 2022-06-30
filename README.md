@@ -7,6 +7,8 @@ I hope you find my work useful, feel free to take a look and if you want to cont
 
 ### Technologies and Tools 💻:
 
+<a href="https://www.gnu.org/software/bash/">
+<img alt="GNU Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 <a href="https://www.cprogramming.com/">
 <img alt="CWebPage" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <a href="https://www.python.org/">
@@ -17,6 +19,10 @@ I hope you find my work useful, feel free to take a look and if you want to cont
 <img alt="GitWebPage" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <a href="https://code.visualstudio.com/">
 <img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<a href="https://html5.org/">
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<a href="https://www.w3.org/Style/CSS/Overview.en.html">
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 
 ### :fire: My Stats on Github:
 
